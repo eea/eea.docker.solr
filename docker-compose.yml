@@ -1,0 +1,11 @@
+version: "3"
+services:
+  solr:
+    #    image: eeacms/solr
+    build: .
+    volumes:
+    - data:/var/solr
+    ports:
+    - "8983:8983"
+volumes:
+  data:
