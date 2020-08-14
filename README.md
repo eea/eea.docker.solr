@@ -1,6 +1,6 @@
 # Solr (Plone CMS ready)
 
-Enhanced Docker image for [Apache Solr](https://lucene.apache.org/solr/) Plone CMS ready, see (collective.solr)[https://github.com/collective/collective.solr] for details.
+Enhanced Docker image for [Apache Solr](https://lucene.apache.org/solr/) Plone CMS ready, see [collective.solr](https://github.com/collective/collective.solr) for details.
 
 ## Supported tags and respective Dockerfile links
 
