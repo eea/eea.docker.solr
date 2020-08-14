@@ -1,8 +1,7 @@
 version: "3"
 services:
   solr:
-    #    image: eeacms/solr
-    build: .
+    image: eeacms/solr
     volumes:
     - data:/var/solr
     ports:
